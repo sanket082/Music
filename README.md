@@ -10,3 +10,19 @@ To run the application go in folder and run command :
 Home Screen:
 
 ![Alt text](https://github.com/sanket082/music/blob/master/django1.PNG)
+
+Album details
+
+![Alt text](https://github.com/sanket082/music/blob/master/django2.PNG)
+
+Album Add
+
+![Alt text](https://github.com/sanket082/music/blob/master/add.PNG)
+
+Song add
+
+![Alt text](https://github.com/sanket082/music/blob/master/song.PNG)
+
+Edit album details:
+
+![Alt text](https://github.com/sanket082/music/blob/master/edit.PNG)
