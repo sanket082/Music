@@ -9,4 +9,4 @@ To run the application go in folder and run command :
 
 Home Screen:
 
-![Alt text](https://github.com/sanket082/music/blob/master/Capture.PNG)
+![Alt text](https://github.com/sanket082/music/blob/master/django1.PNG)
