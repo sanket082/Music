@@ -3,6 +3,11 @@ Music is a django based wb application that is used for organizing your songs in
 
 To run the application go in folder and run command :
     
+    To migrate databases:
+        1: python manage.py makemigrations music
+        2: python manage.py migrate
+        
+        
     python manage.py runserver
     
     and open "http://127.0.0.1:8000/music/" in your browser
